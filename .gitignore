@@ -1,0 +1,6 @@
+node_modules/ 
+.aws-sam/ 
+frontend/node_modules/ 
+frontend/dist/ 
+.env 
+*.msi 

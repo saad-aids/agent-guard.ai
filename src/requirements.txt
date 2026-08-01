@@ -1,0 +1,3 @@
+boto3==1.34.14
+botocore==1.34.14
+hypothesis==6.98.0
